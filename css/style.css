@@ -17,6 +17,11 @@ body {
   color: white;
 }
 
+.insta {
+  max-width:5%;
+  height:auto;
+}
+
 a {
   color: white;
 }
